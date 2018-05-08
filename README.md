@@ -9,7 +9,9 @@ Go to your ros workspace `src` folder
 
 clone `robot_move` package to the present working directory.
 
-### Add dependency package `trajectory_planner` to the same directory.
+### Add dependency package 
+
+Add package `trajectory_planner` to the same directory.
 
 `git clone https://github.com/gayanbrahmanage/trajectory_planner.git`
 
