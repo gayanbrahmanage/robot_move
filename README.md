@@ -1,7 +1,7 @@
 # robot_move
 This package provides tools to send commands to H20 driver programs. 
 
-##How to install
+## How to install
 
 Go to your ros workspace `src` folder
 
@@ -9,7 +9,7 @@ Go to your ros workspace `src` folder
 
 clone `robot_move` package to present working directory.
 
-###Add dependency package `trajectory_planner` to the same directory.
+### Add dependency package `trajectory_planner` to the same directory.
 
 `git clone https://github.com/gayanbrahmanage/trajectory_planner.git`
 
