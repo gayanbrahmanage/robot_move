@@ -7,7 +7,7 @@ Go to your ros workspace `src` folder
 
 `cd catkin_ws/src`
 
-clone `robot_move` package to present working directory.
+clone `robot_move` package to the present working directory.
 
 ### Add dependency package `trajectory_planner` to the same directory.
 
